@@ -1,3 +1,0 @@
-author:si, total:    2
-author:dr, total:    1
-author:jj, total:    1

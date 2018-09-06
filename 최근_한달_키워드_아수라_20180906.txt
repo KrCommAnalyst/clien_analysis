@@ -1,3 +1,0 @@
-author:js, total:    1
-author:ju, total:    1
-author:gy, total:    1
