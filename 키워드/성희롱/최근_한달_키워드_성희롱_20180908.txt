@@ -1,0 +1,12 @@
+author:as, total:    1
+author:at, total:    1
+author:wa, total:    1
+author:sp, total:    1
+author:as, total:    1
+author:cr, total:    1
+author:jk, total:    1
+author:sd, total:    1
+author:ta, total:    1
+author:st, total:    1
+author:ka, total:    1
+author:jd, total:    1
