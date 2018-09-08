@@ -1,3 +1,0 @@
-author:mo, total:    2
-author:gh, total:    1
-author:vo, total:    1

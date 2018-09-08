@@ -1,4 +1,0 @@
-author:dr, total:    1
-author:pp, total:    1
-author:su, total:    1
-author:st, total:    1
