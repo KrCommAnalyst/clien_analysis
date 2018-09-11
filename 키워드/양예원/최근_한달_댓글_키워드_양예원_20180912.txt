@@ -1,0 +1,16 @@
+user_id:ni, total:    2
+user_id:un, total:    1
+user_id:bl, total:    1
+user_id:me, total:    1
+user_id:ar, total:    1
+user_id:je, total:    1
+user_id:wa, total:    1
+user_id:la, total:    1
+user_id:ty, total:    1
+user_id:ra, total:    1
+user_id:ia, total:    1
+user_id:pu, total:    1
+user_id:iu, total:    1
+user_id:wa, total:    1
+user_id:pr, total:    1
+user_id:za, total:    1
