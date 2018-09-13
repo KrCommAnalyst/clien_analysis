@@ -1,0 +1,9 @@
+author:id, total:    2
+author:ye, total:    2
+author:sa, total:    1
+author:fo, total:    1
+author:st, total:    1
+author:ra, total:    1
+author:rr, total:    1
+author:ju, total:    1
+author:fo, total:    1
