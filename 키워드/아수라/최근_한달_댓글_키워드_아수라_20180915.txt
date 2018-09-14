@@ -1,0 +1,13 @@
+user_id:da, total:    2
+user_id:ly, total:    1
+user_id:hi, total:    1
+user_id:un, total:    1
+user_id:de, total:    1
+user_id:co, total:    1
+user_id:yh, total:    1
+user_id:ps, total:    1
+user_id:pe, total:    1
+user_id:an, total:    1
+user_id:na, total:    1
+user_id:mo, total:    1
+user_id:ou, total:    1
