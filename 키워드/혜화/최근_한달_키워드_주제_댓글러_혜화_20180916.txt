@@ -1,0 +1,17 @@
+user_id:dk, total:    2
+user_id:tw, total:    1
+user_id:ze, total:    1
+user_id:yh, total:    1
+user_id:mb, total:    1
+user_id:co, total:    1
+user_id:gh, total:    1
+user_id:sp, total:    1
+user_id:hh, total:    1
+user_id:ou, total:    1
+user_id:mk, total:    1
+user_id:mo, total:    1
+user_id:ku, total:    1
+user_id:al, total:    1
+user_id:dr, total:    1
+user_id:ki, total:    1
+user_id:yj, total:    1
