@@ -1,0 +1,10 @@
+user_id:cb, total:    2
+user_id:f4, total:    1
+user_id:ap, total:    1
+user_id:sh, total:    1
+user_id:sp, total:    1
+user_id:js, total:    1
+user_id:ji, total:    1
+user_id:hy, total:    1
+user_id:li, total:    1
+user_id:yh, total:    1
