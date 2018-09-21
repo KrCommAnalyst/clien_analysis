@@ -1,0 +1,11 @@
+author:si, total:    3
+author:pi, total:    2
+author:as, total:    2
+author:wi, total:    1
+author:jd, total:    1
+author:gg, total:    1
+author:ta, total:    1
+author:st, total:    1
+author:ya, total:    1
+author:bs, total:    1
+author:ga, total:    1
