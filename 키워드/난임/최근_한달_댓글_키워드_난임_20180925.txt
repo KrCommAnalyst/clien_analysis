@@ -1,0 +1,5 @@
+user_id:th, total:    1
+user_id:ko, total:    1
+user_id:ma, total:    1
+user_id:mi, total:    1
+user_id:by, total:    1
