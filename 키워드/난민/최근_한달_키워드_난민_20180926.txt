@@ -1,0 +1,17 @@
+author:gg, total:    5
+author:ta, total:    3
+author:st, total:    1
+author:gk, total:    1
+author:ag, total:    1
+author:ki, total:    1
+author:da, total:    1
+author:00, total:    1
+author:le, total:    1
+author:so, total:    1
+author:fo, total:    1
+author:he, total:    1
+author:kk, total:    1
+author:jd, total:    1
+author:ri, total:    1
+author:ga, total:    1
+author:ja, total:    1
