@@ -1,0 +1,15 @@
+user_id:gh, total:    1
+user_id:ba, total:    1
+user_id:li, total:    1
+user_id:in, total:    1
+user_id:yo, total:    1
+user_id:pi, total:    1
+user_id:pa, total:    1
+user_id:lj, total:    1
+user_id:ju, total:    1
+user_id:ro, total:    1
+user_id:si, total:    1
+user_id:ne, total:    1
+user_id:ks, total:    1
+user_id:mo, total:    1
+user_id:pe, total:    1
