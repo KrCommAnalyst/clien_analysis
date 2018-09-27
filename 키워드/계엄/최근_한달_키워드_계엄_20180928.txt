@@ -1,0 +1,9 @@
+author:as, total:    2
+author:si, total:    2
+author:ga, total:    1
+author:pa, total:    1
+author:ya, total:    1
+author:gg, total:    1
+author:pi, total:    1
+author:st, total:    1
+author:jd, total:    1

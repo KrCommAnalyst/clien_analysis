@@ -1,0 +1,15 @@
+user_id:cl, total:    2
+user_id:se, total:    1
+user_id:gh, total:    1
+user_id:wu, total:    1
+user_id:mi, total:    1
+user_id:ti, total:    1
+user_id:le, total:    1
+user_id:2d, total:    1
+user_id:2u, total:    1
+user_id:x2, total:    1
+user_id:wo, total:    1
+user_id:mo, total:    1
+user_id:im, total:    1
+user_id:as, total:    1
+user_id:pa, total:    1
