@@ -1,0 +1,14 @@
+author:gg, total:    6
+author:ta, total:    3
+author:da, total:    1
+author:00, total:    1
+author:le, total:    1
+author:so, total:    1
+author:he, total:    1
+author:kk, total:    1
+author:ri, total:    1
+author:ga, total:    1
+author:ja, total:    1
+author:st, total:    1
+author:gk, total:    1
+author:ki, total:    1
