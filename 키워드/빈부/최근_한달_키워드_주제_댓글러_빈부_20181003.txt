@@ -1,0 +1,5 @@
+user_id:nu, total:    3
+user_id:as, total:    3
+user_id:zz, total:    1
+user_id:kh, total:    1
+user_id:ed, total:    1
