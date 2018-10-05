@@ -1,0 +1,9 @@
+author:gg, total:    3
+author:ta, total:    2
+author:ga, total:    1
+author:so, total:    1
+author:gk, total:    1
+author:da, total:    1
+author:ja, total:    1
+author:po, total:    1
+author:kk, total:    1

@@ -1,0 +1,6 @@
+author:ta, total:    1
+author:wi, total:    1
+author:ni, total:    1
+author:in, total:    1
+author:pi, total:    1
+author:qk, total:    1

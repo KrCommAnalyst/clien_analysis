@@ -1,0 +1,12 @@
+user_id:at, total:    1
+user_id:ex, total:    1
+user_id:nz, total:    1
+user_id:gr, total:    1
+user_id:re, total:    1
+user_id:bu, total:    1
+user_id:xo, total:    1
+user_id:aw, total:    1
+user_id:gh, total:    1
+user_id:ju, total:    1
+user_id:sm, total:    1
+user_id:ha, total:    1
