@@ -1,0 +1,14 @@
+author:st, total:    4
+author:ls, total:    1
+author:dh, total:    1
+author:dr, total:    1
+author:pa, total:    1
+author:ko, total:    1
+author:fr, total:    1
+author:ji, total:    1
+author:ev, total:    1
+author:so, total:    1
+author:jd, total:    1
+author:re, total:    1
+author:gg, total:    1
+author:an, total:    1
