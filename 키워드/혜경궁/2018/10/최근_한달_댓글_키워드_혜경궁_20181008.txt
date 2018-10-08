@@ -1,0 +1,7 @@
+user_id:uk, total:    1
+user_id:ch, total:    1
+user_id:id, total:    1
+user_id:ia, total:    1
+user_id:lj, total:    1
+user_id:wo, total:    1
+user_id:aw, total:    1
