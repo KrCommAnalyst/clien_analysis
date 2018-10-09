@@ -1,0 +1,7 @@
+user_id:de, total:    1
+user_id:fr, total:    1
+user_id:as, total:    1
+user_id:el, total:    1
+user_id:da, total:    1
+user_id:ju, total:    1
+user_id:Ju, total:    1

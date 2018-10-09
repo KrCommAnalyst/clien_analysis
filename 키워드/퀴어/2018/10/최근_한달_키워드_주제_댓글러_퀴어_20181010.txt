@@ -1,0 +1,16 @@
+user_id:dk, total:    2
+user_id:nu, total:    2
+user_id:gg, total:    2
+user_id:si, total:    2
+user_id:pe, total:    1
+user_id:ju, total:    1
+user_id:ta, total:    1
+user_id:ha, total:    1
+user_id:oo, total:    1
+user_id:ap, total:    1
+user_id:ar, total:    1
+user_id:ta, total:    1
+user_id:no, total:    1
+user_id:ss, total:    1
+user_id:je, total:    1
+user_id:bo, total:    1
