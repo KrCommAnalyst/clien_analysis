@@ -1,0 +1,6 @@
+user_id:sf, total:    1
+user_id:ks, total:    1
+user_id:sh, total:    1
+user_id:TN, total:    1
+user_id:in, total:    1
+user_id:pi, total:    1
