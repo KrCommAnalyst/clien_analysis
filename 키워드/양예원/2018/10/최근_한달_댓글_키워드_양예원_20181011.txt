@@ -1,6 +1,11 @@
-user_id:ha, total:    1
-user_id:ni, total:    1
-user_id:go, total:    1
-user_id:co, total:    1
-user_id:wa, total:    1
-user_id:si, total:    1
+user_id:dlw, total:    3
+user_id:god, total:    1
+user_id:cor, total:    1
+user_id:tod, total:    1
+user_id:blu, total:    1
+user_id:sim, total:    1
+user_id:rep, total:    1
+user_id:han, total:    1
+user_id:rcy, total:    1
+user_id:ktf, total:    1
+user_id:nix, total:    1

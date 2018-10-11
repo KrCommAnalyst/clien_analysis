@@ -1,2 +1,2 @@
-author:gg, total:    2
-author:ge, total:    1
+author:gga, total:    2
+author:gev, total:    1

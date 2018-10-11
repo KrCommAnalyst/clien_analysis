@@ -1,6 +1,5 @@
-author:te, total:    1
-author:fr, total:    1
-author:in, total:    1
-author:ro, total:    1
-author:ki, total:    1
-author:pi, total:    1
+author:roz, total:    1
+author:kim, total:    1
+author:ten, total:    1
+author:fri, total:    1
+author:inm, total:    1

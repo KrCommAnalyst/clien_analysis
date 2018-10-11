@@ -1,3 +1,4 @@
-author:qo, total:    1
-author:ve, total:    1
-author:sa, total:    1
+author:qoe, total:    1
+author:ves, total:    1
+author:ang, total:    1
+author:sav, total:    1

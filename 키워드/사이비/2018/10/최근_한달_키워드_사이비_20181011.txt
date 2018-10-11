@@ -1,6 +1,6 @@
-author:cw, total:    1
-author:gh, total:    1
-author:or, total:    1
-author:dj, total:    1
-author:su, total:    1
-author:cl, total:    1
+author:cwo, total:    1
+author:ghs, total:    1
+author:ora, total:    1
+author:dju, total:    1
+author:sur, total:    1
+author:cli, total:    1

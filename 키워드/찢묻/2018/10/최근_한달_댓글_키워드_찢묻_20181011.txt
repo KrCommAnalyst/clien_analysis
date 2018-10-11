@@ -1,6 +1,6 @@
-user_id:sf, total:    1
-user_id:ks, total:    1
-user_id:sh, total:    1
-user_id:TN, total:    1
-user_id:in, total:    1
-user_id:pi, total:    1
+user_id:pis, total:    1
+user_id:sfc, total:    1
+user_id:kst, total:    1
+user_id:sho, total:    1
+user_id:TNS, total:    1
+user_id:int, total:    1
