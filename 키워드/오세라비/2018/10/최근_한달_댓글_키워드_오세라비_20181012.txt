@@ -1,0 +1,5 @@
+user_id:del, total:    1
+user_id:fru, total:    1
+user_id:ell, total:    1
+user_id:dan, total:    1
+user_id:Jus, total:    1

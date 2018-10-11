@@ -1,0 +1,2 @@
+user_id:rod, total:    7
+user_id:col, total:    1
