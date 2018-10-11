@@ -1,6 +1,5 @@
 author:ci, total:    4
 author:na, total:    3
-author:ki, total:    2
 author:cl, total:    2
 author:cl, total:    1
 author:st, total:    1
@@ -10,6 +9,7 @@ author:li, total:    1
 author:jo, total:    1
 author:il, total:    1
 author:fi, total:    1
+author:ki, total:    1
 author:my, total:    1
 author:qh, total:    1
 author:ps, total:    1
@@ -21,5 +21,4 @@ author:la, total:    1
 author:go, total:    1
 author:br, total:    1
 author:Le, total:    1
-author:gw, total:    1
 author:ju, total:    1

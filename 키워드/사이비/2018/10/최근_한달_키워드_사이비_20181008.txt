@@ -3,4 +3,3 @@ author:or, total:    1
 author:dj, total:    1
 author:cl, total:    1
 author:cw, total:    1
-author:gh, total:    1

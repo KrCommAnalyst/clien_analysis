@@ -1,6 +1,5 @@
 author:gg, total:    2
 author:k4, total:    2
-author:ma, total:    1
 author:th, total:    1
 author:cr, total:    1
 author:di, total:    1

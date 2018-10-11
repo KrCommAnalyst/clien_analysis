@@ -25,9 +25,7 @@ user_id:ca, total:    5
 user_id:cr, total:    4
 user_id:ki, total:    4
 user_id:ja, total:    4
-user_id:ga, total:    4
 user_id:tp, total:    4
-user_id:be, total:    4
 user_id:ww, total:    4
 user_id:ml, total:    4
 user_id:dx, total:    4
@@ -39,12 +37,14 @@ user_id:ch, total:    3
 user_id:yo, total:    3
 user_id:ik, total:    3
 user_id:to, total:    3
+user_id:ga, total:    3
 user_id:am, total:    3
-user_id:mo, total:    3
 user_id:si, total:    3
 user_id:ni, total:    3
+user_id:be, total:    3
 user_id:yd, total:    3
 user_id:si, total:    3
 user_id:ss, total:    3
 user_id:me, total:    3
 user_id:js, total:    3
+user_id:do, total:    3

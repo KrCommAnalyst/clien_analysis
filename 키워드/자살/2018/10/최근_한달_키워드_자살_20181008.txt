@@ -12,7 +12,6 @@ author:su, total:    1
 author:uk, total:    1
 author:ne, total:    1
 author:no, total:    1
-author:wo, total:    1
 author:c1, total:    1
 author:li, total:    1
 author:ne, total:    1

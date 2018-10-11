@@ -1,15 +1,13 @@
 user_id:li, total:    5
 user_id:c1, total:    5
-user_id:da, total:    5
 user_id:as, total:    4
+user_id:da, total:    4
 user_id:pi, total:    3
-user_id:cg, total:    3
 user_id:da, total:    3
 user_id:ch, total:    2
 user_id:no, total:    2
 user_id:tj, total:    2
 user_id:pp, total:    2
-user_id:hi, total:    2
 user_id:di, total:    2
 user_id:an, total:    2
 user_id:co, total:    2
@@ -28,7 +26,6 @@ user_id:ya, total:    1
 user_id:kt, total:    1
 user_id:gu, total:    1
 user_id:en, total:    1
-user_id:pa, total:    1
 user_id:jy, total:    1
 user_id:xp, total:    1
 user_id:br, total:    1
@@ -48,3 +45,6 @@ user_id:ge, total:    1
 user_id:fe, total:    1
 user_id:ni, total:    1
 user_id:dy, total:    1
+user_id:Le, total:    1
+user_id:hi, total:    1
+user_id:pa, total:    1

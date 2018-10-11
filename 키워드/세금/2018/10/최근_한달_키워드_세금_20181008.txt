@@ -32,7 +32,6 @@ author:or, total:    1
 author:ve, total:    1
 author:yh, total:    1
 author:ap, total:    1
-author:la, total:    1
 author:mi, total:    1
 author:pp, total:    1
 author:uk, total:    1
@@ -48,3 +47,4 @@ author:dd, total:    1
 author:so, total:    1
 author:li, total:    1
 author:re, total:    1
+author:na, total:    1

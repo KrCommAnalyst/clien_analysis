@@ -14,5 +14,4 @@ author:bl, total:    1
 author:gh, total:    1
 author:bi, total:    1
 author:pa, total:    1
-author:sm, total:    1
 author:Su, total:    1

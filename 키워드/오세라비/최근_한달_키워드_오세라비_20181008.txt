@@ -1,8 +1,0 @@
-author:ch, total:    1
-author:ka, total:    1
-author:ti, total:    1
-author:ju, total:    1
-author:as, total:    1
-author:in, total:    1
-author:co, total:    1
-author:jd, total:    1

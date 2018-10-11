@@ -6,7 +6,6 @@ user_id:lo, total:    3
 user_id:ju, total:    3
 user_id:jo, total:    3
 user_id:ki, total:    3
-user_id:re, total:    3
 user_id:to, total:    3
 user_id:gr, total:    3
 user_id:da, total:    3
@@ -18,11 +17,11 @@ user_id:te, total:    2
 user_id:tr, total:    2
 user_id:go, total:    2
 user_id:li, total:    2
-user_id:hj, total:    2
 user_id:pi, total:    2
 user_id:ve, total:    2
 user_id:sm, total:    2
 user_id:ni, total:    2
+user_id:re, total:    2
 user_id:wi, total:    2
 user_id:ya, total:    2
 user_id:ik, total:    2
@@ -48,3 +47,4 @@ user_id:an, total:    1
 user_id:as, total:    1
 user_id:cl, total:    1
 user_id:im, total:    1
+user_id:lo, total:    1

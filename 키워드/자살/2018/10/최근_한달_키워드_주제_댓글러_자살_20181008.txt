@@ -40,11 +40,11 @@ user_id:42, total:    2
 user_id:no, total:    2
 user_id:re, total:    2
 user_id:me, total:    2
-user_id:hy, total:    2
 user_id:la, total:    1
 user_id:hj, total:    1
 user_id:ro, total:    1
 user_id:to, total:    1
 user_id:wi, total:    1
 user_id:th, total:    1
-user_id:ch, total:    1
+user_id:ai, total:    1
+user_id:te, total:    1

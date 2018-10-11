@@ -4,16 +4,10 @@ user_id:da, total:    2
 user_id:ni, total:    2
 user_id:cl, total:    1
 user_id:ve, total:    1
-user_id:su, total:    1
 user_id:dk, total:    1
 user_id:am, total:    1
-user_id:mi, total:    1
 user_id:aw, total:    1
-user_id:sh, total:    1
-user_id:an, total:    1
 user_id:gu, total:    1
 user_id:mo, total:    1
-user_id:te, total:    1
 user_id:ne, total:    1
 user_id:pi, total:    1
-user_id:ww, total:    1

@@ -1,9 +1,9 @@
-author:dk, total:    3
-author:kd, total:    3
 author:wa, total:    3
 author:yo, total:    3
 author:pi, total:    2
 author:qu, total:    2
+author:dk, total:    2
+author:kd, total:    2
 author:js, total:    2
 author:br, total:    2
 author:ry, total:    2
@@ -13,7 +13,6 @@ author:pn, total:    1
 author:ro, total:    1
 author:jo, total:    1
 author:nf, total:    1
-author:ra, total:    1
 author:gp, total:    1
 author:ia, total:    1
 author:by, total:    1
@@ -27,7 +26,6 @@ author:ia, total:    1
 author:mo, total:    1
 author:ja, total:    1
 author:yc, total:    1
-author:su, total:    1
 author:go, total:    1
 author:lj, total:    1
 author:fa, total:    1

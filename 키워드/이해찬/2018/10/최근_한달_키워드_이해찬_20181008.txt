@@ -1,6 +1,5 @@
 author:dk, total:    3
 author:vi, total:    2
-author:br, total:    2
 author:da, total:    1
 author:ni, total:    1
 author:kl, total:    1
@@ -12,9 +11,9 @@ author:ap, total:    1
 author:th, total:    1
 author:or, total:    1
 author:el, total:    1
-author:de, total:    1
 author:ph, total:    1
 author:ki, total:    1
+author:br, total:    1
 author:em, total:    1
 author:do, total:    1
 author:mc, total:    1

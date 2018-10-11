@@ -1,3 +1,0 @@
-author:ne, total:    1
-author:ve, total:    1
-author:sa, total:    1

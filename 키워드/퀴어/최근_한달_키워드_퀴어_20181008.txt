@@ -1,5 +1,0 @@
-author:gg, total:    2
-author:yh, total:    1
-author:ka, total:    1
-author:cb, total:    1
-author:ge, total:    1
