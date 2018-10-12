@@ -1,0 +1,16 @@
+user_id:dlw, total:    3
+user_id:han, total:    1
+user_id:yak, total:    1
+user_id:rcy, total:    1
+user_id:gom, total:    1
+user_id:ktf, total:    1
+user_id:rig, total:    1
+user_id:god, total:    1
+user_id:lux, total:    1
+user_id:cor, total:    1
+user_id:kim, total:    1
+user_id:tod, total:    1
+user_id:oil, total:    1
+user_id:blu, total:    1
+user_id:sim, total:    1
+user_id:rep, total:    1

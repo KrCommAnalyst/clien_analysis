@@ -1,0 +1,13 @@
+user_id:von, total:    2
+user_id:vig, total:    1
+user_id:tea, total:    1
+user_id:red, total:    1
+user_id:kim, total:    1
+user_id:spi, total:    1
+user_id:caf, total:    1
+user_id:bor, total:    1
+user_id:cli, total:    1
+user_id:ast, total:    1
+user_id:wol, total:    1
+user_id:sus, total:    1
+user_id:hun, total:    1
