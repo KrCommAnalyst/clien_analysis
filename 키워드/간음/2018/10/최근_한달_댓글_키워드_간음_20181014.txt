@@ -1,0 +1,2 @@
+user_id:nzs, total:    1
+user_id:awf, total:    1

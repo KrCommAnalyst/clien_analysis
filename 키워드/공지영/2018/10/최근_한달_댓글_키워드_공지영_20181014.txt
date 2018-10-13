@@ -1,0 +1,13 @@
+user_id:cld, total:    1
+user_id:rod, total:    1
+user_id:bee, total:    1
+user_id:k44, total:    1
+user_id:qhs, total:    1
+user_id:job, total:    1
+user_id:bes, total:    1
+user_id:seo, total:    1
+user_id:yun, total:    1
+user_id:gui, total:    1
+user_id:roc, total:    1
+user_id:its, total:    1
+user_id:col, total:    1

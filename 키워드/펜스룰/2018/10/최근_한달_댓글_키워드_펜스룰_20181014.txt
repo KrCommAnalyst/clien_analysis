@@ -1,0 +1,14 @@
+user_id:com, total:    2
+user_id:ghk, total:    2
+user_id:cha, total:    2
+user_id:sla, total:    1
+user_id:joh, total:    1
+user_id:hey, total:    1
+user_id:dra, total:    1
+user_id:eru, total:    1
+user_id:kiw, total:    1
+user_id:mak, total:    1
+user_id:sel, total:    1
+user_id:123, total:    1
+user_id:ddu, total:    1
+user_id:jun, total:    1
