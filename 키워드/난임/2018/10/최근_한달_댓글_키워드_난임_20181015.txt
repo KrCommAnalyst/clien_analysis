@@ -1,0 +1,2 @@
+user_id:eme, total:    1
+user_id:byu, total:    1
