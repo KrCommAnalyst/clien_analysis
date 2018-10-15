@@ -1,0 +1,10 @@
+author:and, total:   10
+author:cha, total:    3
+author:shi, total:    1
+author:lns, total:    1
+author:loe, total:    1
+author:for, total:    1
+author:ale, total:    1
+author:hiv, total:    1
+author:mto, total:    1
+author:d11, total:    1

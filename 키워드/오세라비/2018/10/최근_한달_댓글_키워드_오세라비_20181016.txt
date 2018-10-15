@@ -1,0 +1,2 @@
+user_id:dal, total:    1
+user_id:fru, total:    1

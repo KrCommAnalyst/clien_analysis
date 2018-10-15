@@ -1,0 +1,10 @@
+user_id:fru, total:    2
+user_id:min, total:    1
+user_id:ast, total:    1
+user_id:shu, total:    1
+user_id:jh8, total:    1
+user_id:cha, total:    1
+user_id:kim, total:    1
+user_id:cor, total:    1
+user_id:100, total:    1
+user_id:izu, total:    1
