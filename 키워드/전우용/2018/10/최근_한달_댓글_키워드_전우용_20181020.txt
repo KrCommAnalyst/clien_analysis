@@ -1,0 +1,15 @@
+user_id:goj, total:    1
+user_id:ryu, total:    1
+user_id:nig, total:    1
+user_id:yah, total:    1
+user_id:lik, total:    1
+user_id:cad, total:    1
+user_id:han, total:    1
+user_id:byu, total:    1
+user_id:yty, total:    1
+user_id:ake, total:    1
+user_id:got, total:    1
+user_id:drw, total:    1
+user_id:mon, total:    1
+user_id:dra, total:    1
+user_id:sso, total:    1
