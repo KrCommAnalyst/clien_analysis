@@ -1,0 +1,9 @@
+user_id:pin, total:    2
+user_id:iam, total:    1
+user_id:por, total:    1
+user_id:sco, total:    1
+user_id:rek, total:    1
+user_id:com, total:    1
+user_id:abc, total:    1
+user_id:han, total:    1
+user_id:ys9, total:    1
