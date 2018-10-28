@@ -1,0 +1,16 @@
+user_id:ljm, total:    3
+user_id:stc, total:    1
+user_id:kim, total:    1
+user_id:tt4, total:    1
+user_id:asd, total:    1
+user_id:psd, total:    1
+user_id:ash, total:    1
+user_id:jdh, total:    1
+user_id:kil, total:    1
+user_id:gak, total:    1
+user_id:doy, total:    1
+user_id:jin, total:    1
+user_id:ilo, total:    1
+user_id:mgw, total:    1
+user_id:ris, total:    1
+user_id:jkw, total:    1
