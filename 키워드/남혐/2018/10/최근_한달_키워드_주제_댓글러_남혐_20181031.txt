@@ -1,0 +1,13 @@
+user_id:soa, total:    2
+user_id:dkf, total:    2
+user_id:lab, total:    1
+user_id:pkj, total:    1
+user_id:mni, total:    1
+user_id:yow, total:    1
+user_id:han, total:    1
+user_id:yam, total:    1
+user_id:pax, total:    1
+user_id:rok, total:    1
+user_id:ams, total:    1
+user_id:b2m, total:    1
+user_id:ect, total:    1

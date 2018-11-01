@@ -1,0 +1,14 @@
+author:gga, total:    5
+author:and, total:    2
+author:seo, total:    1
+author:gho, total:    1
+author:bul, total:    1
+author:can, total:    1
+author:tpe, total:    1
+author:ten, total:    1
+author:pan, total:    1
+author:lim, total:    1
+author:min, total:    1
+author:cbs, total:    1
+author:ccc, total:    1
+author:kds, total:    1

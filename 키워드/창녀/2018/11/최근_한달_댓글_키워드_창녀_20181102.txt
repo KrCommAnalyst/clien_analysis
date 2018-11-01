@@ -1,0 +1,5 @@
+user_id:cli, total:    3
+user_id:ahe, total:    1
+user_id:can, total:    1
+user_id:jhb, total:    1
+user_id:sav, total:    1

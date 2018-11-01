@@ -1,0 +1,13 @@
+user_id:blu, total:    2
+user_id:dio, total:    1
+user_id:kic, total:    1
+user_id:iso, total:    1
+user_id:yon, total:    1
+user_id:ahe, total:    1
+user_id:dkk, total:    1
+user_id:jiy, total:    1
+user_id:ili, total:    1
+user_id:jay, total:    1
+user_id:ljb, total:    1
+user_id:pin, total:    1
+user_id:bri, total:    1
