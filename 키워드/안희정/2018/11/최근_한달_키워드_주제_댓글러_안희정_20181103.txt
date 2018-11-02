@@ -1,0 +1,10 @@
+user_id:yti, total:    5
+user_id:shi, total:    1
+user_id:sal, total:    1
+user_id:ash, total:    1
+user_id:mak, total:    1
+user_id:qks, total:    1
+user_id:cay, total:    1
+user_id:jur, total:    1
+user_id:ner, total:    1
+user_id:hit, total:    1

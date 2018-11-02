@@ -1,0 +1,9 @@
+user_id:421, total:    2
+user_id:pro, total:    2
+user_id:col, total:    1
+user_id:zta, total:    1
+user_id:gai, total:    1
+user_id:kih, total:    1
+user_id:www, total:    1
+user_id:izb, total:    1
+user_id:nah, total:    1
