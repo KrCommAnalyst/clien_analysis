@@ -1,0 +1,16 @@
+user_id:kst, total:    1
+user_id:rep, total:    1
+user_id:gig, total:    1
+user_id:gog, total:    1
+user_id:tro, total:    1
+user_id:hsc, total:    1
+user_id:2uo, total:    1
+user_id:abc, total:    1
+user_id:eey, total:    1
+user_id:shi, total:    1
+user_id:yos, total:    1
+user_id:ent, total:    1
+user_id:apo, total:    1
+user_id:tom, total:    1
+user_id:say, total:    1
+user_id:jus, total:    1
