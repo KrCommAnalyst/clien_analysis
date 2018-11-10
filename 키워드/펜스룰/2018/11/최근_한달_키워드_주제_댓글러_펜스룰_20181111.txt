@@ -1,0 +1,14 @@
+user_id:kom, total:    3
+user_id:noi, total:    1
+user_id:rea, total:    1
+user_id:abc, total:    1
+user_id:cha, total:    1
+user_id:chi, total:    1
+user_id:cha, total:    1
+user_id:tom, total:    1
+user_id:byl, total:    1
+user_id:jdh, total:    1
+user_id:123, total:    1
+user_id:lux, total:    1
+user_id:53d, total:    1
+user_id:izb, total:    1

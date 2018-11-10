@@ -1,0 +1,6 @@
+user_id:ahe, total:    1
+user_id:jiy, total:    1
+user_id:jay, total:    1
+user_id:ljb, total:    1
+user_id:bri, total:    1
+user_id:iso, total:    1
