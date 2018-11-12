@@ -1,0 +1,11 @@
+user_id:c10, total:    2
+user_id:pin, total:    2
+user_id:loe, total:    1
+user_id:62k, total:    1
+user_id:dik, total:    1
+user_id:min, total:    1
+user_id:see, total:    1
+user_id:yow, total:    1
+user_id:oil, total:    1
+user_id:jus, total:    1
+user_id:ted, total:    1

@@ -1,0 +1,6 @@
+user_id:psj, total:    1
+user_id:coz, total:    1
+user_id:yah, total:    1
+user_id:dan, total:    1
+user_id:jem, total:    1
+user_id:drw, total:    1
