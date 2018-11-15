@@ -1,0 +1,2 @@
+user_id:dan, total:    1
+user_id:rid, total:    1

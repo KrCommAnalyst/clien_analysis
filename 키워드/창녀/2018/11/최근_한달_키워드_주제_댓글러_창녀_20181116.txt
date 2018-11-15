@@ -1,0 +1,5 @@
+user_id:sav, total:    1
+user_id:wov, total:    1
+user_id:mis, total:    1
+user_id:cor, total:    1
+user_id:sym, total:    1
