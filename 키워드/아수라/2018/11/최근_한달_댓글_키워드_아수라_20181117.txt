@@ -1,0 +1,12 @@
+user_id:lat, total:    1
+user_id:eul, total:    1
+user_id:per, total:    1
+user_id:hsc, total:    1
+user_id:ima, total:    1
+user_id:mat, total:    1
+user_id:kro, total:    1
+user_id:kha, total:    1
+user_id:hee, total:    1
+user_id:tj2, total:    1
+user_id:sav, total:    1
+user_id:jkl, total:    1

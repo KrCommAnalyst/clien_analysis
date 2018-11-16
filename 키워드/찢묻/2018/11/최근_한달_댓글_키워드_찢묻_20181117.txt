@@ -1,0 +1,7 @@
+user_id:mak, total:    1
+user_id:xwa, total:    1
+user_id:kst, total:    1
+user_id:lbh, total:    1
+user_id:see, total:    1
+user_id:uni, total:    1
+user_id:kws, total:    1

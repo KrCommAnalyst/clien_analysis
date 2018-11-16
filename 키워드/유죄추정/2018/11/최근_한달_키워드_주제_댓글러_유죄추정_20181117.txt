@@ -1,0 +1,9 @@
+user_id:nos, total:    2
+user_id:way, total:    1
+user_id:cre, total:    1
+user_id:pen, total:    1
+user_id:cl2, total:    1
+user_id:roo, total:    1
+user_id:fam, total:    1
+user_id:gug, total:    1
+user_id:lan, total:    1
