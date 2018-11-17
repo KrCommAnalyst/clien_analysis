@@ -1,0 +1,12 @@
+user_id:shi, total:    2
+user_id:tob, total:    2
+user_id:tog, total:    1
+user_id:emp, total:    1
+user_id:xwa, total:    1
+user_id:jyk, total:    1
+user_id:sho, total:    1
+user_id:kst, total:    1
+user_id:peg, total:    1
+user_id:buc, total:    1
+user_id:dlw, total:    1
+user_id:uni, total:    1
