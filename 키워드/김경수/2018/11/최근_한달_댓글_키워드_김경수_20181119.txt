@@ -1,0 +1,7 @@
+user_id:rep, total:    1
+user_id:gog, total:    1
+user_id:2uo, total:    1
+user_id:eey, total:    1
+user_id:yos, total:    1
+user_id:apo, total:    1
+user_id:jus, total:    1

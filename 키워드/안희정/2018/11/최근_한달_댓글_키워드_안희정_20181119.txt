@@ -1,0 +1,8 @@
+user_id:hyl, total:    1
+user_id:tom, total:    1
+user_id:yj2, total:    1
+user_id:sel, total:    1
+user_id:seo, total:    1
+user_id:wav, total:    1
+user_id:jkp, total:    1
+user_id:hel, total:    1

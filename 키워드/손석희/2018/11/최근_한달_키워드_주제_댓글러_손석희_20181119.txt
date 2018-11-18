@@ -1,0 +1,10 @@
+user_id:lft, total:    2
+user_id:war, total:    2
+user_id:ero, total:    1
+user_id:lov, total:    1
+user_id:jys, total:    1
+user_id:sgg, total:    1
+user_id:mfr, total:    1
+user_id:tom, total:    1
+user_id:hyu, total:    1
+user_id:nie, total:    1
