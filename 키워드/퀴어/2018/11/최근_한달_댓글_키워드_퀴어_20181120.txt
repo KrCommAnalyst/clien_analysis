@@ -1,0 +1,4 @@
+user_id:dio, total:    1
+user_id:sic, total:    1
+user_id:lov, total:    1
+user_id:jkb, total:    1
