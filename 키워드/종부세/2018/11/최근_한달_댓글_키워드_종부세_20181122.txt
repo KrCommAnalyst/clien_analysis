@@ -1,0 +1,2 @@
+user_id:bri, total:    1
+user_id:jiy, total:    1

@@ -1,0 +1,4 @@
+user_id:vas, total:    1
+user_id:rep, total:    1
+user_id:kut, total:    1
+user_id:ent, total:    1

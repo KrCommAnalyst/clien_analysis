@@ -1,0 +1,8 @@
+user_id:xwa, total:    1
+user_id:sho, total:    1
+user_id:kst, total:    1
+user_id:peg, total:    1
+user_id:buc, total:    1
+user_id:dlw, total:    1
+user_id:uni, total:    1
+user_id:emp, total:    1

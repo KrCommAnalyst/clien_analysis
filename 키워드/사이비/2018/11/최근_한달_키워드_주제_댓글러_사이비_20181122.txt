@@ -1,0 +1,11 @@
+user_id:hel, total:    1
+user_id:bro, total:    1
+user_id:seo, total:    1
+user_id:int, total:    1
+user_id:bri, total:    1
+user_id:dpa, total:    1
+user_id:cei, total:    1
+user_id:kic, total:    1
+user_id:fre, total:    1
+user_id:Jul, total:    1
+user_id:log, total:    1
