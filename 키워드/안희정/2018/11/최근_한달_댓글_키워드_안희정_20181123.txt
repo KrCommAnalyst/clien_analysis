@@ -1,0 +1,5 @@
+user_id:jkp, total:    1
+user_id:hyl, total:    1
+user_id:tom, total:    1
+user_id:yj2, total:    1
+user_id:wav, total:    1

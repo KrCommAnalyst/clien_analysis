@@ -1,0 +1,2 @@
+user_id:zzz, total:    3
+user_id:len, total:    1

@@ -1,0 +1,14 @@
+user_id:wao, total:    2
+user_id:nni, total:    1
+user_id:aki, total:    1
+user_id:her, total:    1
+user_id:pha, total:    1
+user_id:den, total:    1
+user_id:910, total:    1
+user_id:fly, total:    1
+user_id:fla, total:    1
+user_id:jam, total:    1
+user_id:new, total:    1
+user_id:xma, total:    1
+user_id:sen, total:    1
+user_id:sin, total:    1
