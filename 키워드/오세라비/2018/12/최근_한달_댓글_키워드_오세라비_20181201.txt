@@ -1,0 +1,2 @@
+user_id:zzz, total:    1
+user_id:dkk, total:    1

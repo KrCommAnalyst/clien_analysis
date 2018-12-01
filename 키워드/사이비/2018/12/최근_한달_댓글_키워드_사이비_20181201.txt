@@ -1,0 +1,16 @@
+user_id:rok, total:    3
+user_id:lim, total:    1
+user_id:kis, total:    1
+user_id:pin, total:    1
+user_id:las, total:    1
+user_id:yue, total:    1
+user_id:win, total:    1
+user_id:rid, total:    1
+user_id:ham, total:    1
+user_id:inv, total:    1
+user_id:dlw, total:    1
+user_id:Sil, total:    1
+user_id:cli, total:    1
+user_id:__h, total:    1
+user_id:yti, total:    1
+user_id:tvc, total:    1

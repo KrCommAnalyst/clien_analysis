@@ -1,0 +1,7 @@
+user_id:che, total:    1
+user_id:hap, total:    1
+user_id:han, total:    1
+user_id:jom, total:    1
+user_id:ora, total:    1
+user_id:gui, total:    1
+user_id:rid, total:    1

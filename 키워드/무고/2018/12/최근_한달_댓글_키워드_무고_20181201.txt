@@ -1,0 +1,17 @@
+user_id:kip, total:    1
+user_id:pmp, total:    1
+user_id:hss, total:    1
+user_id:kan, total:    1
+user_id:che, total:    1
+user_id:cho, total:    1
+user_id:han, total:    1
+user_id:wwt, total:    1
+user_id:sdb, total:    1
+user_id:gih, total:    1
+user_id:eve, total:    1
+user_id:eul, total:    1
+user_id:mar, total:    1
+user_id:dsy, total:    1
+user_id:phr, total:    1
+user_id:rev, total:    1
+user_id:oby, total:    1

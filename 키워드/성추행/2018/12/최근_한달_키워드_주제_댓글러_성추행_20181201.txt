@@ -1,0 +1,4 @@
+user_id:cho, total:    1
+user_id:hem, total:    1
+user_id:saa, total:    1
+user_id:hel, total:    1

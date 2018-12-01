@@ -1,0 +1,16 @@
+user_id:der, total:    2
+user_id:see, total:    2
+user_id:tha, total:    1
+user_id:nin, total:    1
+user_id:qua, total:    1
+user_id:pic, total:    1
+user_id:sww, total:    1
+user_id:swe, total:    1
+user_id:pin, total:    1
+user_id:th2, total:    1
+user_id:and, total:    1
+user_id:sle, total:    1
+user_id:gus, total:    1
+user_id:mas, total:    1
+user_id:dar, total:    1
+user_id:bon, total:    1

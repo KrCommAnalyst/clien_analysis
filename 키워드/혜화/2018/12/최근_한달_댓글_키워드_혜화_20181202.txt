@@ -1,0 +1,2 @@
+user_id:nek, total:    3
+user_id:sim, total:    1

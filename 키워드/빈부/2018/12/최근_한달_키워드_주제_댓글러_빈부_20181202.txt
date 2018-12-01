@@ -1,0 +1,7 @@
+user_id:rev, total:    1
+user_id:cro, total:    1
+user_id:lib, total:    1
+user_id:yon, total:    1
+user_id:new, total:    1
+user_id:skt, total:    1
+user_id:bsc, total:    1

@@ -1,0 +1,13 @@
+user_id:ama, total:    2
+user_id:wav, total:    1
+user_id:ctn, total:    1
+user_id:pea, total:    1
+user_id:sla, total:    1
+user_id:sle, total:    1
+user_id:nos, total:    1
+user_id:pir, total:    1
+user_id:qkr, total:    1
+user_id:ssh, total:    1
+user_id:cre, total:    1
+user_id:wkd, total:    1
+user_id:las, total:    1

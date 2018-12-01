@@ -1,0 +1,16 @@
+user_id:tiz, total:    2
+user_id:n67, total:    1
+user_id:oni, total:    1
+user_id:pea, total:    1
+user_id:win, total:    1
+user_id:ung, total:    1
+user_id:whi, total:    1
+user_id:200, total:    1
+user_id:gur, total:    1
+user_id:fre, total:    1
+user_id:fiv, total:    1
+user_id:pow, total:    1
+user_id:tar, total:    1
+user_id:jiw, total:    1
+user_id:cho, total:    1
+user_id:tjs, total:    1
