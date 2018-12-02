@@ -1,0 +1,5 @@
+user_id:gol, total:    1
+user_id:skt, total:    1
+user_id:sch, total:    1
+user_id:tra, total:    1
+user_id:421, total:    1

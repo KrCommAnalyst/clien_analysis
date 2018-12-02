@@ -1,0 +1,6 @@
+user_id:uch, total:    1
+user_id:not, total:    1
+user_id:den, total:    1
+user_id:dif, total:    1
+user_id:pyr, total:    1
+user_id:das, total:    1

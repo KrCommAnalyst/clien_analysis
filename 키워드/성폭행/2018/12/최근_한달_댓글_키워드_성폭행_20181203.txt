@@ -1,0 +1,4 @@
+user_id:bla, total:    1
+user_id:bet, total:    1
+user_id:neo, total:    1
+user_id:shi, total:    1
