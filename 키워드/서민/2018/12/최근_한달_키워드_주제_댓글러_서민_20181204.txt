@@ -1,0 +1,11 @@
+user_id:yoo, total:    1
+user_id:shi, total:    1
+user_id:dks, total:    1
+user_id:ant, total:    1
+user_id:Mea, total:    1
+user_id:bee, total:    1
+user_id:sww, total:    1
+user_id:gen, total:    1
+user_id:ear, total:    1
+user_id:may, total:    1
+user_id:tal, total:    1

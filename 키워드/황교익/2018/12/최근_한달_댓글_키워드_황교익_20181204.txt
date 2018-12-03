@@ -1,0 +1,6 @@
+user_id:isu, total:    1
+user_id:win, total:    1
+user_id:swi, total:    1
+user_id:boo, total:    1
+user_id:lyc, total:    1
+user_id:gus, total:    1

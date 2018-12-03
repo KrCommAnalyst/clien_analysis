@@ -1,0 +1,2 @@
+user_id:bal, total:    1
+user_id:swi, total:    1

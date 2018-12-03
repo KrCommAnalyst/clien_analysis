@@ -1,0 +1,10 @@
+user_id:fac, total:    1
+user_id:eey, total:    1
+user_id:so0, total:    1
+user_id:spi, total:    1
+user_id:peg, total:    1
+user_id:jch, total:    1
+user_id:sou, total:    1
+user_id:ohm, total:    1
+user_id:sil, total:    1
+user_id:guw, total:    1

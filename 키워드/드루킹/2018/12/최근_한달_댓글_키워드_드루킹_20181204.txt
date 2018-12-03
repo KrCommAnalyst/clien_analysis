@@ -1,0 +1,10 @@
+user_id:kim, total:    2
+user_id:cld, total:    2
+user_id:cor, total:    1
+user_id:sba, total:    1
+user_id:ggi, total:    1
+user_id:jse, total:    1
+user_id:tok, total:    1
+user_id:cli, total:    1
+user_id:jyc, total:    1
+user_id:iam, total:    1

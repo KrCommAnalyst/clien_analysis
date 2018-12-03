@@ -1,0 +1,15 @@
+user_id:kim, total:    3
+user_id:log, total:    1
+user_id:int, total:    1
+user_id:poo, total:    1
+user_id:ein, total:    1
+user_id:fus, total:    1
+user_id:ges, total:    1
+user_id:fgd, total:    1
+user_id:ein, total:    1
+user_id:col, total:    1
+user_id:sho, total:    1
+user_id:blo, total:    1
+user_id:qha, total:    1
+user_id:sha, total:    1
+user_id:joo, total:    1

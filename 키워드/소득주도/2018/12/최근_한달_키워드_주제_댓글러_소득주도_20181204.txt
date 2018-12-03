@@ -1,0 +1,16 @@
+user_id:abc, total:    1
+user_id:han, total:    1
+user_id:sch, total:    1
+user_id:nin, total:    1
+user_id:the, total:    1
+user_id:wjs, total:    1
+user_id:pjy, total:    1
+user_id:bap, total:    1
+user_id:que, total:    1
+user_id:rla, total:    1
+user_id:fir, total:    1
+user_id:saa, total:    1
+user_id:jih, total:    1
+user_id:wid, total:    1
+user_id:ieu, total:    1
+user_id:ken, total:    1

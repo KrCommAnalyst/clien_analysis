@@ -1,0 +1,10 @@
+user_id:pep, total:    1
+user_id:tru, total:    1
+user_id:bla, total:    1
+user_id:wls, total:    1
+user_id:der, total:    1
+user_id:oxy, total:    1
+user_id:nos, total:    1
+user_id:ect, total:    1
+user_id:abc, total:    1
+user_id:cam, total:    1

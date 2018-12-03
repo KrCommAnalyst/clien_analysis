@@ -1,0 +1,1 @@
+user_id:ggi, total:    1
