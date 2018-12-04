@@ -1,0 +1,2 @@
+user_id:sho, total:    1
+user_id:sty, total:    1

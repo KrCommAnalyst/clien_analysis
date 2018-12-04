@@ -1,0 +1,2 @@
+user_id:bla, total:    1
+user_id:neo, total:    1

@@ -1,0 +1,2 @@
+user_id:spi, total:    1
+user_id:don, total:    1

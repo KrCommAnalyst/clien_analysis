@@ -1,0 +1,15 @@
+user_id:ivy, total:    2
+user_id:dan, total:    2
+user_id:moo, total:    1
+user_id:bor, total:    1
+user_id:zzz, total:    1
+user_id:gih, total:    1
+user_id:inc, total:    1
+user_id:apa, total:    1
+user_id:sai, total:    1
+user_id:sma, total:    1
+user_id:acl, total:    1
+user_id:zet, total:    1
+user_id:lou, total:    1
+user_id:sfc, total:    1
+user_id:ddi, total:    1

@@ -1,0 +1,2 @@
+user_id:tow, total:    1
+user_id:mar, total:    1
