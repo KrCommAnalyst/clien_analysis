@@ -1,0 +1,9 @@
+user_id:pione, total:    1
+user_id:dolbu, total:    1
+user_id:leeyu, total:    1
+user_id:leoni, total:    1
+user_id:ggoma, total:    1
+user_id:bbong, total:    1
+user_id:ktseo, total:    1
+user_id:junib, total:    1
+user_id:dunca, total:    1

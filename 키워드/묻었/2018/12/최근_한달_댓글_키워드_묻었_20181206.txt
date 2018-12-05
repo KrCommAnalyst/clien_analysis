@@ -1,0 +1,5 @@
+user_id:sunsh, total:    1
+user_id:smaug, total:    1
+user_id:kuyat, total:    1
+user_id:windj, total:    1
+user_id:cbs73, total:    1

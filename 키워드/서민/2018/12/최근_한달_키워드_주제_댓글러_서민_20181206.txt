@@ -1,0 +1,7 @@
+user_id:genis, total:    1
+user_id:may23, total:    1
+user_id:yoonf, total:    1
+user_id:anter, total:    1
+user_id:dksha, total:    1
+user_id:beeta, total:    1
+user_id:earth, total:    1

@@ -1,0 +1,6 @@
+user_id:oldga, total:    3
+user_id:monda, total:    3
+user_id:hti82, total:    1
+user_id:molly, total:    1
+user_id:small, total:    1
+user_id:uhuru, total:    1

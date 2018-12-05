@@ -1,0 +1,40 @@
+author:hello, total:    2
+author:shind, total:    2
+author:think, total:    2
+author:wlsrn, total:    2
+author:livin, total:    1
+author:haein, total:    1
+author:honey, total:    1
+author:unme , total:    1
+author:tomto, total:    1
+author:ilike, total:    1
+author:swift, total:    1
+author:jdhun, total:    1
+author:k4caa, total:    1
+author:iamsc, total:    1
+author:2onnu, total:    1
+author:lovep, total:    1
+author:sunri, total:    1
+author:jlnam, total:    1
+author:zuer , total:    1
+author:earth, total:    1
+author:chaeh, total:    1
+author:yayul, total:    1
+author:tidk , total:    1
+author:luste, total:    1
+author:oops1, total:    1
+author:ladi0, total:    1
+author:mirba, total:    1
+author:ferci, total:    1
+author:bond9, total:    1
+author:haker, total:    1
+author:lilin, total:    1
+author:edwer, total:    1
+author:nxnx2, total:    1
+author:nvidi, total:    1
+author:elfin, total:    1
+author:kidin, total:    1
+author:oliga, total:    1
+author:dicer, total:    1
+author:neptu, total:    1
+author:ghkdt, total:    1

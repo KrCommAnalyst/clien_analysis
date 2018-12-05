@@ -1,0 +1,40 @@
+user_id:stylo, total:    2
+user_id:chjea, total:    2
+user_id:hiros, total:    2
+user_id:lany , total:    2
+user_id:nova , total:    2
+user_id:kkama, total:    2
+user_id:anipe, total:    2
+user_id:haker, total:    2
+user_id:vibhu, total:    1
+user_id:jiwun, total:    1
+user_id:uk751, total:    1
+user_id:qhaqu, total:    1
+user_id:jeonk, total:    1
+user_id:soole, total:    1
+user_id:eliza, total:    1
+user_id:yunse, total:    1
+user_id:glueb, total:    1
+user_id:scwee, total:    1
+user_id:its2p, total:    1
+user_id:minf1, total:    1
+user_id:groov, total:    1
+user_id:windo, total:    1
+user_id:pen2k, total:    1
+user_id:4leaf, total:    1
+user_id:mniin, total:    1
+user_id:appro, total:    1
+user_id:nt4ev, total:    1
+user_id:zzamb, total:    1
+user_id:zaya , total:    1
+user_id:small, total:    1
+user_id:jphan, total:    1
+user_id:dicer, total:    1
+user_id:gaiag, total:    1
+user_id:ddfer, total:    1
+user_id:bubbl, total:    1
+user_id:drpor, total:    1
+user_id:bluex, total:    1
+user_id:alkyd, total:    1
+user_id:ect20, total:    1
+user_id:corre, total:    1

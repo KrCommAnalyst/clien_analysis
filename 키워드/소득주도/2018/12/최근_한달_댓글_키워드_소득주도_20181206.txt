@@ -1,0 +1,5 @@
+user_id:clrvi, total:    3
+user_id:jobs7, total:    1
+user_id:rlaal, total:    1
+user_id:njn03, total:    1
+user_id:schic, total:    1

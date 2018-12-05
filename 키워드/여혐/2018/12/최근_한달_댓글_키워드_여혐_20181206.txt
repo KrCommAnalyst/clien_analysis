@@ -1,0 +1,13 @@
+user_id:seesa, total:    2
+user_id:derwo, total:    2
+user_id:pen2k, total:    1
+user_id:skadu, total:    1
+user_id:quali, total:    1
+user_id:sweet, total:    1
+user_id:darks, total:    1
+user_id:th286, total:    1
+user_id:thexe, total:    1
+user_id:slee0, total:    1
+user_id:yaong, total:    1
+user_id:masqu, total:    1
+user_id:pico2, total:    1

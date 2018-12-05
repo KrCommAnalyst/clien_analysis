@@ -1,0 +1,50 @@
+author:kj920, total:   82
+author:piran, total:   76
+author:redja, total:   33
+author:ezjj , total:   17
+author:kimdp, total:   14
+author:kadeo, total:   14
+author:ianki, total:   14
+author:canip, total:   10
+author:kimju, total:   10
+author:jsean, total:    6
+author:symme, total:    5
+author:hooni, total:    5
+author:livin, total:    5
+author:sacho, total:    5
+author:k4404, total:    5
+author:ham85, total:    4
+author:welfa, total:    4
+author:shee3, total:    4
+author:prepp, total:    3
+author:df33 , total:    3
+author:askka, total:    3
+author:ohmyf, total:    3
+author:01047, total:    3
+author:tizto, total:    3
+author:jdhun, total:    3
+author:min0a, total:    3
+author:lyl52, total:    3
+author:silen, total:    2
+author:c1004, total:    2
+author:eroso, total:    2
+author:neo37, total:    2
+author:expir, total:    2
+author:kofte, total:    2
+author:mirba, total:    2
+author:elfin, total:    2
+author:typho, total:    2
+author:simsi, total:    2
+author:rames, total:    2
+author:netbi, total:    2
+author:maru5, total:    2
+author:rands, total:    2
+author:redmi, total:    2
+author:zonx , total:    2
+author:zaado, total:    2
+author:biack, total:    2
+author:hwan0, total:    1
+author:kimgj, total:    1
+author:chams, total:    1
+author:navy , total:    1
+author:jhgye, total:    1

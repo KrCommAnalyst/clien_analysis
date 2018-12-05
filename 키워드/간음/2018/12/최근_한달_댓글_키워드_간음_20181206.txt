@@ -1,0 +1,2 @@
+user_id:pop21, total:    1
+user_id:dduzz, total:    1
