@@ -1,0 +1,7 @@
+user_id:cdy79, total:    1
+user_id:99enc, total:    1
+user_id:trobe, total:    1
+user_id:panic, total:    1
+user_id:guii , total:    1
+user_id:synan, total:    1
+user_id:zxczx, total:    1

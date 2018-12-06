@@ -1,0 +1,27 @@
+user_id:mtoeh, total:    2
+user_id:tarte, total:    2
+user_id:bpens, total:    1
+user_id:pmpto, total:    1
+user_id:minf1, total:    1
+user_id:lutie, total:    1
+user_id:iwish, total:    1
+user_id:seesa, total:    1
+user_id:chrom, total:    1
+user_id:groov, total:    1
+user_id:so007, total:    1
+user_id:darks, total:    1
+user_id:gogof, total:    1
+user_id:orang, total:    1
+user_id:spong, total:    1
+user_id:21ckm, total:    1
+user_id:nara9, total:    1
+user_id:bluet, total:    1
+user_id:vega1, total:    1
+user_id:neoer, total:    1
+user_id:nuno1, total:    1
+user_id:Mean , total:    1
+user_id:pinks, total:    1
+user_id:sad22, total:    1
+user_id:lastl, total:    1
+user_id:k2000, total:    1
+user_id:ijysj, total:    1

@@ -1,0 +1,2 @@
+user_id:smaug, total:    1
+user_id:windj, total:    1

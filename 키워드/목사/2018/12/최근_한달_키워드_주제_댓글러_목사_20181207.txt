@@ -1,0 +1,23 @@
+user_id:hutst, total:    1
+user_id:negaf, total:    1
+user_id:super, total:    1
+user_id:groov, total:    1
+user_id:ralra, total:    1
+user_id:talmi, total:    1
+user_id:mwc07, total:    1
+user_id:saveg, total:    1
+user_id:jwkim, total:    1
+user_id:wave2, total:    1
+user_id:kangd, total:    1
+user_id:lastl, total:    1
+user_id:nesty, total:    1
+user_id:ridou, total:    1
+user_id:ooops, total:    1
+user_id:abcch, total:    1
+user_id:cato , total:    1
+user_id:redja, total:    1
+user_id:darks, total:    1
+user_id:pooq , total:    1
+user_id:lyl52, total:    1
+user_id:clien, total:    1
+user_id:rainm, total:    1

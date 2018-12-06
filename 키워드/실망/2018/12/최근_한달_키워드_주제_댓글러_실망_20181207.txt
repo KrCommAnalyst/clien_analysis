@@ -1,0 +1,14 @@
+user_id:hello, total:    3
+user_id:monda, total:    1
+user_id:belle, total:    1
+user_id:redja, total:    1
+user_id:sveri, total:    1
+user_id:jindr, total:    1
+user_id:defoe, total:    1
+user_id:hyunm, total:    1
+user_id:blue0, total:    1
+user_id:flybl, total:    1
+user_id:tlqkf, total:    1
+user_id:derwo, total:    1
+user_id:sdh19, total:    1
+user_id:wine5, total:    1

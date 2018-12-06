@@ -1,0 +1,13 @@
+user_id:desir, total:    2
+user_id:gmrak, total:    1
+user_id:jooyh, total:    1
+user_id:ddini, total:    1
+user_id:cato , total:    1
+user_id:gbj15, total:    1
+user_id:falin, total:    1
+user_id:uklre, total:    1
+user_id:nosim, total:    1
+user_id:mirba, total:    1
+user_id:coral, total:    1
+user_id:adach, total:    1
+user_id:camai, total:    1

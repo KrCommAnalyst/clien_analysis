@@ -1,0 +1,50 @@
+author:phr10, total:   27
+author:ricko, total:   14
+author:muhan, total:   13
+author:super, total:   11
+author:ggigg, total:   10
+author:daha , total:   10
+author:k4404, total:    8
+author:orang, total:    8
+author:lany , total:    6
+author:wat19, total:    6
+author:gsen , total:    6
+author:yhfor, total:    6
+author:ianki, total:    5
+author:sequo, total:    5
+author:jaebo, total:    5
+author:jobs7, total:    5
+author:membe, total:    5
+author:grayc, total:    4
+author:clipn, total:    4
+author:thed2, total:    4
+author:zenpl, total:    4
+author:iltim, total:    4
+author:gmrak, total:    4
+author:desss, total:    4
+author:repla, total:    3
+author:buckt, total:    3
+author:gogof, total:    3
+author:pws77, total:    3
+author:enter, total:    3
+author:chull, total:    3
+author:kadeo, total:    3
+author:edmin, total:    3
+author:railr, total:    3
+author:hb86o, total:    2
+author:ggang, total:    2
+author:umami, total:    2
+author:shiva, total:    2
+author:ptpk , total:    2
+author:minis, total:    2
+author:canip, total:    2
+author:vaste, total:    2
+author:waoas, total:    2
+author:tanat, total:    2
+author:mhha1, total:    2
+author:meseb, total:    2
+author:minip, total:    2
+author:trobe, total:    2
+author:chaeh, total:    2
+author:tas77, total:    2
+author:dawso, total:    2

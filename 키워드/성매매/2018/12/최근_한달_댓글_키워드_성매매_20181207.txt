@@ -1,0 +1,9 @@
+user_id:kwons, total:    1
+user_id:jykyu, total:    1
+user_id:iamys, total:    1
+user_id:freet, total:    1
+user_id:rekor, total:    1
+user_id:lastl, total:    1
+user_id:qkrms, total:    1
+user_id:black, total:    1
+user_id:exnav, total:    1
