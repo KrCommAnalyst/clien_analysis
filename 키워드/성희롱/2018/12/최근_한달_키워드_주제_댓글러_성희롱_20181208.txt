@@ -1,0 +1,27 @@
+user_id:kimgj, total:    2
+user_id:hsnim, total:    1
+user_id:doohy, total:    1
+user_id:sadga, total:    1
+user_id:love3, total:    1
+user_id:rhaps, total:    1
+user_id:guii , total:    1
+user_id:atti2, total:    1
+user_id:heyto, total:    1
+user_id:bosem, total:    1
+user_id:small, total:    1
+user_id:black, total:    1
+user_id:kicha, total:    1
+user_id:dynow, total:    1
+user_id:choco, total:    1
+user_id:yoonf, total:    1
+user_id:nachn, total:    1
+user_id:negaf, total:    1
+user_id:pj550, total:    1
+user_id:derwo, total:    1
+user_id:fafok, total:    1
+user_id:aidb , total:    1
+user_id:jiny2, total:    1
+user_id:mou1 , total:    1
+user_id:darks, total:    1
+user_id:simsi, total:    1
+user_id:gusak, total:    1

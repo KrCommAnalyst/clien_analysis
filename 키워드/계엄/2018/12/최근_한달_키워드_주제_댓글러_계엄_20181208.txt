@@ -1,0 +1,22 @@
+user_id:crone, total:    2
+user_id:blue0, total:    1
+user_id:aeron, total:    1
+user_id:ktfre, total:    1
+user_id:sieni, total:    1
+user_id:monda, total:    1
+user_id:biack, total:    1
+user_id:corn9, total:    1
+user_id:vkdls, total:    1
+user_id:ggang, total:    1
+user_id:royen, total:    1
+user_id:ianki, total:    1
+user_id:wovkf, total:    1
+user_id:grayc, total:    1
+user_id:tairu, total:    1
+user_id:nesty, total:    1
+user_id:panic, total:    1
+user_id:typho, total:    1
+user_id:clien, total:    1
+user_id:opmc , total:    1
+user_id:dandy, total:    1
+user_id:izbea, total:    1

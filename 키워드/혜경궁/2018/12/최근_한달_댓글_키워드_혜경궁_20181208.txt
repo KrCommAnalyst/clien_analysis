@@ -1,0 +1,4 @@
+user_id:hahah, total:    1
+user_id:molly, total:    1
+user_id:jic97, total:    1
+user_id:kb070, total:    1
