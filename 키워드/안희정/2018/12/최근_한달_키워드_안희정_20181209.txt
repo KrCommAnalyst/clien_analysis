@@ -1,0 +1,12 @@
+author:shamu, total:    2
+author:dr_ki, total:    1
+author:jhk34, total:    1
+author:blued, total:    1
+author:imiss, total:    1
+author:jaema, total:    1
+author:leech, total:    1
+author:sella, total:    1
+author:chull, total:    1
+author:chaod, total:    1
+author:zenpl, total:    1
+author:newcl, total:    1

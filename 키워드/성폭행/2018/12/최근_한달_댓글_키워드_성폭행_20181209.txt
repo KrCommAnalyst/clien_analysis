@@ -1,0 +1,5 @@
+user_id:spong, total:    1
+user_id:black, total:    1
+user_id:gulda, total:    1
+user_id:neoer, total:    1
+user_id:strde, total:    1

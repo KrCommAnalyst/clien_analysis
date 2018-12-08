@@ -1,0 +1,4 @@
+user_id:golsh, total:    2
+user_id:khjas, total:    1
+user_id:trasy, total:    1
+user_id:surim, total:    1

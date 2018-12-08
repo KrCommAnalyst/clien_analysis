@@ -1,0 +1,17 @@
+user_id:monda, total:    1
+user_id:4qv90, total:    1
+user_id:paran, total:    1
+user_id:yahar, total:    1
+user_id:joger, total:    1
+user_id:jjun3, total:    1
+user_id:yhfor, total:    1
+user_id:sunkj, total:    1
+user_id:fanta, total:    1
+user_id:elle3, total:    1
+user_id:canip, total:    1
+user_id:alpha, total:    1
+user_id:mikep, total:    1
+user_id:df33 , total:    1
+user_id:lalal, total:    1
+user_id:born7, total:    1
+user_id:heroh, total:    1

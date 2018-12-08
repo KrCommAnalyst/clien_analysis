@@ -1,0 +1,50 @@
+author:wkdeo, total:    3
+author:jdhun, total:    3
+author:kadeo, total:    3
+author:mooka, total:    2
+author:mobo , total:    2
+author:lany , total:    2
+author:minf1, total:    2
+author:kangd, total:    2
+author:clear, total:    2
+author:kirty, total:    1
+author:smile, total:    1
+author:idmol, total:    1
+author:keyz , total:    1
+author:jysy , total:    1
+author:jhy04, total:    1
+author:abcch, total:    1
+author:URIME, total:    1
+author:gogof, total:    1
+author:ilike, total:    1
+author:light, total:    1
+author:wande, total:    1
+author:strug, total:    1
+author:akihi, total:    1
+author:koyot, total:    1
+author:ryu85, total:    1
+author:kyc74, total:    1
+author:kagaj, total:    1
+author:Lovec, total:    1
+author:brent, total:    1
+author:ompha, total:    1
+author:song0, total:    1
+author:cdh89, total:    1
+author:zeroj, total:    1
+author:chobi, total:    1
+author:kycch, total:    1
+author:edwer, total:    1
+author:loedi, total:    1
+author:barag, total:    1
+author:mylen, total:    1
+author:honey, total:    1
+author:telet, total:    1
+author:cigi , total:    1
+author:sunsh, total:    1
+author:fther, total:    1
+author:likeb, total:    1
+author:alaal, total:    1
+author:k4404, total:    1
+author:masti, total:    1
+author:hsnim, total:    1
+author:kdscc, total:    1
