@@ -1,0 +1,9 @@
+user_id:kj920, total:    2
+user_id:kisin, total:    2
+user_id:lovev, total:    1
+user_id:gesta, total:    1
+user_id:kawan, total:    1
+user_id:overd, total:    1
+user_id:talkt, total:    1
+user_id:savag, total:    1
+user_id:elfin, total:    1

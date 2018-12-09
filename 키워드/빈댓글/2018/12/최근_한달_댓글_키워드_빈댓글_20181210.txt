@@ -1,0 +1,9 @@
+user_id:sinoj, total:    1
+user_id:jomiu, total:    1
+user_id:flybl, total:    1
+user_id:pjy91, total:    1
+user_id:moreh, total:    1
+user_id:jindr, total:    1
+user_id:desir, total:    1
+user_id:kwn08, total:    1
+user_id:so007, total:    1

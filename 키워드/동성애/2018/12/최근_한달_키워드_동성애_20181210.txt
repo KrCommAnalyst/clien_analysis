@@ -1,0 +1,8 @@
+author:hyun1, total:    1
+author:likes, total:    1
+author:twin3, total:    1
+author:jung_, total:    1
+author:canip, total:    1
+author:mirba, total:    1
+author:kycch, total:    1
+author:gui34, total:    1

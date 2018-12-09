@@ -1,0 +1,7 @@
+user_id:kiri1, total:    1
+user_id:cryos, total:    1
+user_id:jakek, total:    1
+user_id:rosea, total:    1
+user_id:lenah, total:    1
+user_id:widet, total:    1
+user_id:ocbar, total:    1

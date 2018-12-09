@@ -1,0 +1,9 @@
+user_id:livin, total:    2
+user_id:pico2, total:    1
+user_id:myows, total:    1
+user_id:fghj0, total:    1
+user_id:shact, total:    1
+user_id:never, total:    1
+user_id:mcat , total:    1
+user_id:tofhq, total:    1
+user_id:life1, total:    1

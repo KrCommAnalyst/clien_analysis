@@ -1,0 +1,12 @@
+user_id:kimju, total:    2
+user_id:kaz21, total:    2
+user_id:shjia, total:    1
+user_id:twowh, total:    1
+user_id:baram, total:    1
+user_id:doho , total:    1
+user_id:sharp, total:    1
+user_id:Ramiu, total:    1
+user_id:jych0, total:    1
+user_id:kdd01, total:    1
+user_id:seoky, total:    1
+user_id:hardy, total:    1
