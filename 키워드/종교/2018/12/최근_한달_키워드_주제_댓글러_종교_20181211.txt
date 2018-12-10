@@ -1,0 +1,6 @@
+user_id:royen, total:    1
+user_id:komor, total:    1
+user_id:wwwkn, total:    1
+user_id:fos10, total:    1
+user_id:einab, total:    1
+user_id:kws04, total:    1

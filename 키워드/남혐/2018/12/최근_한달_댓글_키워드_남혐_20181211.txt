@@ -1,0 +1,6 @@
+user_id:guii , total:    1
+user_id:small, total:    1
+user_id:sbang, total:    1
+user_id:happi, total:    1
+user_id:thexe, total:    1
+user_id:orang, total:    1

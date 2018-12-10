@@ -1,0 +1,9 @@
+user_id:fanta, total:    2
+user_id:rhrbq, total:    1
+user_id:allof, total:    1
+user_id:cadar, total:    1
+user_id:biyot, total:    1
+user_id:jigan, total:    1
+user_id:skwpd, total:    1
+user_id:darks, total:    1
+user_id:sakuk, total:    1

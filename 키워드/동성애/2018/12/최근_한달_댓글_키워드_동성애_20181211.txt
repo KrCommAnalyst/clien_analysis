@@ -1,0 +1,4 @@
+user_id:blood, total:    1
+user_id:wkwmd, total:    1
+user_id:roki1, total:    1
+user_id:ghkdt, total:    1

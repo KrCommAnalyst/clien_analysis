@@ -1,0 +1,14 @@
+author:rosea, total:    6
+author:gisba, total:    3
+author:windc, total:    2
+author:camai, total:    1
+author:ninja, total:    1
+author:hahah, total:    1
+author:cryos, total:    1
+author:neart, total:    1
+author:seo2h, total:    1
+author:ronin, total:    1
+author:ksyen, total:    1
+author:tibuh, total:    1
+author:godso, total:    1
+author:shuug, total:    1
