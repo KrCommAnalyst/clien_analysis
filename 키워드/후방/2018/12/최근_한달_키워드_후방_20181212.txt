@@ -1,0 +1,50 @@
+author:piran, total:   91
+author:kj920, total:   82
+author:redja, total:   36
+author:ianki, total:   22
+author:kadeo, total:   15
+author:ezjj , total:   15
+author:kimdp, total:   13
+author:canip, total:   11
+author:kimju, total:    9
+author:livin, total:    8
+author:jsean, total:    7
+author:hooni, total:    6
+author:sacho, total:    5
+author:globe, total:    4
+author:shee3, total:    4
+author:askka, total:    4
+author:symme, total:    4
+author:welfa, total:    3
+author:prepp, total:    3
+author:df33 , total:    3
+author:zaado, total:    3
+author:ham85, total:    3
+author:k4404, total:    3
+author:elfin, total:    3
+author:min0a, total:    3
+author:simsi, total:    2
+author:dance, total:    2
+author:tizto, total:    2
+author:jaewa, total:    2
+author:01047, total:    2
+author:silen, total:    2
+author:yondu, total:    2
+author:jhetf, total:    2
+author:ezkil, total:    2
+author:biack, total:    2
+author:kofte, total:    2
+author:malic, total:    2
+author:kicha, total:    2
+author:typho, total:    2
+author:jdhun, total:    2
+author:ohmyf, total:    2
+author:netbi, total:    2
+author:jujub, total:    1
+author:racer, total:    1
+author:mobo , total:    1
+author:bdc49, total:    1
+author:cigi , total:    1
+author:super, total:    1
+author:jkb80, total:    1
+author:minip, total:    1

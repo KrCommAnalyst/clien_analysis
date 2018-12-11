@@ -1,0 +1,26 @@
+user_id:darks, total:    2
+user_id:symme, total:    2
+user_id:tanat, total:    2
+user_id:honey, total:    1
+user_id:diffs, total:    1
+user_id:s2651, total:    1
+user_id:cassp, total:    1
+user_id:dopa , total:    1
+user_id:goril, total:    1
+user_id:kadeo, total:    1
+user_id:ddini, total:    1
+user_id:ma50n, total:    1
+user_id:kws04, total:    1
+user_id:chaod, total:    1
+user_id:tarte, total:    1
+user_id:yaong, total:    1
+user_id:doogy, total:    1
+user_id:wooji, total:    1
+user_id:sbang, total:    1
+user_id:neoer, total:    1
+user_id:porte, total:    1
+user_id:tj291, total:    1
+user_id:k4404, total:    1
+user_id:luxuv, total:    1
+user_id:imaru, total:    1
+user_id:strug, total:    1
