@@ -1,0 +1,5 @@
+user_id:kimju, total:    5
+user_id:sella, total:    1
+user_id:zango, total:    1
+user_id:hanzo, total:    1
+user_id:lee88, total:    1

@@ -1,0 +1,50 @@
+user_id:darks, total:   13
+user_id:gihob, total:   10
+user_id:derwo, total:    6
+user_id:jiyon, total:    5
+user_id:cassp, total:    4
+user_id:kws04, total:    3
+user_id:god_e, total:    3
+user_id:born7, total:    3
+user_id:guii , total:    3
+user_id:pmpto, total:    3
+user_id:flybl, total:    3
+user_id:kangd, total:    3
+user_id:clien, total:    2
+user_id:simon, total:    2
+user_id:fafok, total:    2
+user_id:izumi, total:    2
+user_id:zo202, total:    2
+user_id:flare, total:    2
+user_id:hyunm, total:    2
+user_id:coral, total:    2
+user_id:jobs7, total:    2
+user_id:alexw, total:    2
+user_id:saska, total:    2
+user_id:nowwi, total:    2
+user_id:cadar, total:    2
+user_id:arcan, total:    2
+user_id:joger, total:    2
+user_id:symme, total:    2
+user_id:icbm1, total:    2
+user_id:dopa , total:    2
+user_id:inpuu, total:    2
+user_id:eeyor, total:    2
+user_id:sung7, total:    1
+user_id:cadnu, total:    1
+user_id:doell, total:    1
+user_id:bengb, total:    1
+user_id:alstl, total:    1
+user_id:aclou, total:    1
+user_id:chang, total:    1
+user_id:zmzm , total:    1
+user_id:yeonh, total:    1
+user_id:jms11, total:    1
+user_id:moonw, total:    1
+user_id:kaz21, total:    1
+user_id:53det, total:    1
+user_id:dgv7 , total:    1
+user_id:susem, total:    1
+user_id:jomiu, total:    1
+user_id:A1586, total:    1
+user_id:lienp, total:    1

@@ -1,0 +1,12 @@
+user_id:swine, total:    1
+user_id:twa00, total:    1
+user_id:derwo, total:    1
+user_id:groov, total:    1
+user_id:catz , total:    1
+user_id:alber, total:    1
+user_id:bubbl, total:    1
+user_id:birdl, total:    1
+user_id:retur, total:    1
+user_id:nowwi, total:    1
+user_id:jedi9, total:    1
+user_id:mamam, total:    1

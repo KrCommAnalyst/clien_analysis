@@ -1,0 +1,14 @@
+user_id:lovpo, total:    1
+user_id:nonam, total:    1
+user_id:arsia, total:    1
+user_id:juyou, total:    1
+user_id:opter, total:    1
+user_id:lastl, total:    1
+user_id:corn9, total:    1
+user_id:eject, total:    1
+user_id:skyai, total:    1
+user_id:ames3, total:    1
+user_id:kogum, total:    1
+user_id:beeta, total:    1
+user_id:blues, total:    1
+user_id:hanul, total:    1

@@ -1,0 +1,15 @@
+user_id:lovep, total:    1
+user_id:zhang, total:    1
+user_id:born7, total:    1
+user_id:pisce, total:    1
+user_id:izbea, total:    1
+user_id:kadeo, total:    1
+user_id:jooyh, total:    1
+user_id:phr10, total:    1
+user_id:jobs7, total:    1
+user_id:rodum, total:    1
+user_id:moonw, total:    1
+user_id:nokey, total:    1
+user_id:molly, total:    1
+user_id:chris, total:    1
+user_id:tenci, total:    1
