@@ -1,0 +1,13 @@
+user_id:monda, total:    2
+user_id:stepa, total:    1
+user_id:mteng, total:    1
+user_id:alstl, total:    1
+user_id:derwo, total:    1
+user_id:kkama, total:    1
+user_id:mello, total:    1
+user_id:cdy79, total:    1
+user_id:seesa, total:    1
+user_id:colum, total:    1
+user_id:koxel, total:    1
+user_id:imaru, total:    1
+user_id:panic, total:    1

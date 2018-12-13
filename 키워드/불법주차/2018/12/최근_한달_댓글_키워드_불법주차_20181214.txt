@@ -1,0 +1,2 @@
+user_id:wave2, total:    1
+user_id:marce, total:    1

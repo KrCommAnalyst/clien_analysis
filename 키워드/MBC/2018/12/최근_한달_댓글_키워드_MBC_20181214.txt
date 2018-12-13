@@ -1,0 +1,17 @@
+user_id:shoon, total:    2
+user_id:kimju, total:    2
+user_id:koako, total:    1
+user_id:hantw, total:    1
+user_id:lee88, total:    1
+user_id:fusnt, total:    1
+user_id:jmroh, total:    1
+user_id:ryu85, total:    1
+user_id:tallo, total:    1
+user_id:skadu, total:    1
+user_id:frost, total:    1
+user_id:jini3, total:    1
+user_id:onepe, total:    1
+user_id:baram, total:    1
+user_id:taeyo, total:    1
+user_id:seung, total:    1
+user_id:n_ne , total:    1

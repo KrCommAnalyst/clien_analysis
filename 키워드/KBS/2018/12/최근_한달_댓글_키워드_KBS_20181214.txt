@@ -1,0 +1,10 @@
+user_id:kimju, total:    3
+user_id:jooyh, total:    1
+user_id:qkswp, total:    1
+user_id:inthe, total:    1
+user_id:fusnt, total:    1
+user_id:ein88, total:    1
+user_id:fgdhf, total:    1
+user_id:colum, total:    1
+user_id:blood, total:    1
+user_id:qhaqu, total:    1

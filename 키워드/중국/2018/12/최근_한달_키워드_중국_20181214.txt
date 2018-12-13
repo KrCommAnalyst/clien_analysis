@@ -1,0 +1,50 @@
+author:qwert, total:    9
+author:kimju, total:    8
+author:runel, total:    8
+author:shang, total:    8
+author:jsweo, total:    8
+author:tenna, total:    7
+author:membe, total:    7
+author:wat19, total:    7
+author:cyh47, total:    6
+author:jdhun, total:    5
+author:entir, total:    5
+author:monda, total:    5
+author:k4404, total:    5
+author:ggang, total:    5
+author:gene0, total:    4
+author:dhkd0, total:    4
+author:monow, total:    4
+author:bois2, total:    4
+author:piran, total:    3
+author:shamu, total:    3
+author:daha , total:    3
+author:frtch, total:    3
+author:dmdgn, total:    3
+author:globe, total:    3
+author:sangk, total:    3
+author:lany , total:    3
+author:vonde, total:    3
+author:crowk, total:    3
+author:cvdf9, total:    3
+author:dhrwn, total:    3
+author:choxx, total:    2
+author:mcske, total:    2
+author:mobo , total:    2
+author:mirsh, total:    2
+author:stylo, total:    2
+author:modem, total:    2
+author:chaod, total:    2
+author:cccpj, total:    2
+author:yhfor, total:    2
+author:bansu, total:    2
+author:sorce, total:    2
+author:ver3c, total:    2
+author:minwo, total:    2
+author:oliga, total:    2
+author:gesta, total:    2
+author:seo2h, total:    2
+author:zonx , total:    2
+author:chice, total:    2
+author:redja, total:    2
+author:pico2, total:    2

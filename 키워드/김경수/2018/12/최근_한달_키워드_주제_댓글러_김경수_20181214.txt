@@ -1,0 +1,15 @@
+user_id:muhan, total:    2
+user_id:zxczx, total:    1
+user_id:shiva, total:    1
+user_id:wishy, total:    1
+user_id:abcch, total:    1
+user_id:byte9, total:    1
+user_id:phr10, total:    1
+user_id:derwo, total:    1
+user_id:jobs7, total:    1
+user_id:check, total:    1
+user_id:tenci, total:    1
+user_id:nesty, total:    1
+user_id:zoolo, total:    1
+user_id:kkama, total:    1
+user_id:ibmhd, total:    1

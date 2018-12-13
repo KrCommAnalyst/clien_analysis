@@ -1,0 +1,7 @@
+user_id:Ramiu, total:    1
+user_id:kimgj, total:    1
+user_id:shuij, total:    1
+user_id:wooha, total:    1
+user_id:ztarw, total:    1
+user_id:alchi, total:    1
+user_id:aaaa , total:    1
